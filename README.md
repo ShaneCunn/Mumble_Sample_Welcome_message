@@ -6,6 +6,10 @@ Instead of welcometext="Welcome to this server running Murmur."
 
 -![alt text](http://i.imgur.com/Xm83rQk.png "Example Welcome message in mumble")
 
+###Important links
+
+* [Full Murmur.ini guide](http://wiki.mumble.info/wiki/Murmur.ini)
+
 ### Html Example  in Mumble ini
 
 Example logo in the welcome message:
