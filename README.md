@@ -10,7 +10,7 @@ Instead of welcometext="Welcome to this server running Murmur."
 
 * [Full Murmur.ini guide](http://wiki.mumble.info/wiki/Murmur.ini)
 
-### Html Example  in Mumble ini
+### Html Examples  in Mumble ini
 
 Example logo in the welcome message:
  ```html
