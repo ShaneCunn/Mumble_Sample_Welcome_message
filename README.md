@@ -122,6 +122,4 @@ welcometext="<a href="https://www.google.com"><img alt="BRTD old logo" src="http
     this server.</strong> <em></em></em></span>
     
 </ul>"
-
-
 ```
