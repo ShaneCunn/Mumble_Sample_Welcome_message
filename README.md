@@ -14,14 +14,14 @@ Instead of welcometext="Welcome to this server running Murmur."
 
 Example logo in the welcome message:
  ```html
- <a href="http://goo.gl/0a6Ok4"><img alt="BRTD old logo" src="http://i.imgur.com/m4NsCG0.jpg" width="250"></a
+ <a href="https://www.google.com"><img alt="Your logo here" src="http://i.imgur.com/m4NsCG0.jpg" width="250"></a>
  ```
  
  Examples of an contact/Officer list:
  ```html
  <h3>Commanded by the best Officer's</h3>
 <ul>
-    <li><a href="https://www.google.com"><strong>Clan Leader:</strong> Outfit leader</a></li>
+    <li><a href="https://www.google.com"><strong>Clan Leader:</strong> Clan leader</a></li>
     <li><a href="https://www.google.com"><strong>Officer 2:</strong> Co-leader</a>
     </li>
 </ul>
