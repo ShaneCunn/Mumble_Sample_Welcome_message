@@ -26,11 +26,17 @@ Example logo in the welcome message:
     </li>
 </ul>
 ```
-Example of line break and hortizontal rule
+
+Example of a line break
 ```html
 <br>
+```
+
+Example of a hortizontal rule
+```html
 <hr>
 ```
+
 Example of import message ie Disclaimer and so on
 ```html
 <h3>Legal Disclaimer</h3>
