@@ -10,7 +10,7 @@ Instead of welcometext="Welcome to this server running Murmur."
 
 * [Full Murmur.ini guide](http://wiki.mumble.info/wiki/Murmur.ini)
 
-### Html Examples  in Mumble ini
+### HTML Examples in the Mumble.ini
 
 Example logo in the welcome message:
  ```html
@@ -37,7 +37,7 @@ Example of a hortizontal rule
 <hr>
 ```
 
-Example of import message ie Disclaimer and so on
+Example of important message i.e. a disclaimer
 ```html
 <h3>Legal Disclaimer</h3>
 
@@ -64,6 +64,15 @@ Example of import message ie Disclaimer and so on
     this server.</strong> <em></em></em></span>
   </ul>
 ```
+### Legal Disclaimer
+
+*   <span style="color:#ff0000"></span>
+*   <span style="color:#ff0000">_**Please Be Aware It's an age 18+ Voice Server.**_</span>
+*   <span style="color:#ff0000"></span>
+*   <span style="color:#ff0000">_**By using this Voice Server you agree that you are aged 18 or older.**_</span>
+*   <span style="color:#ff0000"></span>
+*   <span style="color:#ff0000">_**The Server host takes no responsibility for context of conversations or messages sent or received on this server.**_</span>
+
 ### Full example of Welcome message
 ```html
 welcometext="<a href="https://www.google.com"><img alt="BRTD old logo" src="http://i.imgur.com/m4NsCG0.jpg" width="250"></a>
