@@ -37,7 +37,9 @@ Example logo in the welcome message:
 <hr>
 ```
 
-#### Example of Welcome message
+
+
+## Example of a welcome message
 
 [![Sample logo](http://i.imgur.com/m4NsCG0.jpg)](https://www.google.com)
 
