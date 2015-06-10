@@ -41,16 +41,16 @@ Example of a hortizontal rule
 
 [![Sample logo](http://i.imgur.com/m4NsCG0.jpg)](https://www.google.com)
 
-### Commanded by the best Officer's
+### Commanded by the best officer's
 
-*   [**Clan Leader:** Outfit leader](https://www.google.com)
+*   [**Clan Leader:** Clan leader](https://www.google.com)
 *   [**Officer 2:** Co-leader](https://www.google.com)
 
 _***If you have any concerns please contact these Officers**_
 
 * * *
 
-### Latest Outfit News and Events
+### Latest Clan News and Events
 
 *   [Example Link 1](https://www.google.com)
 *   [Example Link 2](https://www.google.com)
@@ -60,7 +60,7 @@ _***If you have any concerns please contact these Officers**_
 ### Please read these Threads to:
 
 *   [Get full access to the Clan Forums](https://www.google.com)
-*   [Suggestion on how to improve the Outfit/Website please post them here](https://www.google.com)
+*   [Suggestion on how to improve the Clan/Website please post them here](https://www.google.com)
 
 * * *
 
@@ -70,7 +70,7 @@ welcometext="
 <a href="https://www.google.com"><img alt="BRTD old logo" src="http://i.imgur.com/m4NsCG0.jpg" width="250"></a>
  <h3>Commanded by the best Officer's</h3>
 <ul>
-    <li><a href="https://www.google.com"><strong>Clan Leader:</strong> Outfit leader</a>
+    <li><a href="https://www.google.com"><strong>Clan Leader:</strong> Clan leader</a>
     </li>
     <li><a href="https://www.google.com"><strong>Officer 2:</strong> Co-leader</a>
     </li>
@@ -80,7 +80,7 @@ welcometext="
 </p>
 <br>
 <hr>
- <h3>Latest Outfit News and Events</h3>
+ <h3>Latest Clan News and Events</h3>
 <ul>
     <li> <a href="https://www.google.com">Example Link 1</a>
 
@@ -95,7 +95,7 @@ welcometext="
 
     </li>
     <li> <a href="https://www.google.com">Suggestion on how to improve the
-      Outfit/Website please post them here</a>
+      Clan/Website please post them here</a>
     </li>
 </ul>
 <hr>
