@@ -122,7 +122,7 @@ welcometext="
 
 Example of important message i.e. a disclaimer
 
-### Legal Disclaimer
+## Legal Disclaimer
 
 *   <span style="color:#ff0000">_**Please Be Aware It's an age 18+ Voice Server.**_</span>
 *   <span style="color:#ff0000">_**By using this Voice Server you agree that you are aged 18 or older.**_</span>
