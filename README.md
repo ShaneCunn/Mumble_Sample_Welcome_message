@@ -37,32 +37,6 @@ Example of a hortizontal rule
 <hr>
 ```
 
-Example of important message i.e. a disclaimer
-
-### Legal Disclaimer
-
-*   <span style="color:#ff0000">_**Please Be Aware It's an age 18+ Voice Server.**_</span>
-*   <span style="color:#ff0000">_**By using this Voice Server you agree that you are aged 18 or older.**_</span>
-*   <span style="color:#ff0000">_**The Server host takes no responsibility for context of conversations or messages sent or received on this server.**_</span>
-
-```html
-
-<h3>Legal Disclaimer</h3>
-
-<ul type="square">
-     </li>
-    <li><span style="color:#ff0000"><em><strong>Please Be Aware It's an age 18+
-    Voice Server.</strong></em></span>
-	</li>
-    <li><span style="color:#ff0000"><em><strong>By using this Voice Server you
-    agree that you are aged 18 or older.</strong></em></span>
-    </li>
-    <li><span style="color:#ff0000"><em><strong>The Server host takes no
-    responsibility for context of conversations or messages sent or received on
-    this server.</strong> <em></em></em></span>
-  </ul>
-```
-
 ### Example of Welcome message
 
 [![Sample logo](http://i.imgur.com/m4NsCG0.jpg)](https://www.google.com)
@@ -144,4 +118,31 @@ welcometext="
     this server.</strong> <em></em></em></span>
     </ul>
 	"
+```
+
+Example of important message i.e. a disclaimer
+
+### Legal Disclaimer
+
+*   <span style="color:#ff0000">_**Please Be Aware It's an age 18+ Voice Server.**_</span>
+*   <span style="color:#ff0000">_**By using this Voice Server you agree that you are aged 18 or older.**_</span>
+*   <span style="color:#ff0000">_**The Server host takes no responsibility for context of conversations or messages sent or received on this server.**_</span>
+
+### HTML Example of Legal Disclaimer
+```html
+
+<h3>Legal Disclaimer</h3>
+
+<ul type="square">
+     </li>
+    <li><span style="color:#ff0000"><em><strong>Please Be Aware It's an age 18+
+    Voice Server.</strong></em></span>
+	</li>
+    <li><span style="color:#ff0000"><em><strong>By using this Voice Server you
+    agree that you are aged 18 or older.</strong></em></span>
+    </li>
+    <li><span style="color:#ff0000"><em><strong>The Server host takes no
+    responsibility for context of conversations or messages sent or received on
+    this server.</strong> <em></em></em></span>
+  </ul>
 ```
