@@ -6,18 +6,18 @@ Instead of welcometext="Welcome to this server running Murmur."
 
 -![alt text](http://i.imgur.com/Xm83rQk.png "Example Welcome message in mumble")
 
-###Important links
+##Important links
 
 * [Full Murmur.ini guide](http://wiki.mumble.info/wiki/Murmur.ini)
 
-### HTML Examples in the Mumble.ini
+#### HTML Examples in the Mumble.ini
 
 Example logo in the welcome message:
  ```html
  <a href="https://www.google.com"><img alt="Your logo here" src="http://i.imgur.com/m4NsCG0.jpg" width="250"></a>
  ```
  
- Examples of an contact/Officer list:
+##### Examples of an contact/Officer list:
  ```html
  <h3>Commanded by the best Officer's</h3>
 <ul>
@@ -27,21 +27,21 @@ Example logo in the welcome message:
 </ul>
 ```
 
-Example of a line break
+##### Example of a line break
 ```html
 <br>
 ```
 
-Example of a hortizontal rule
+##### Example of a hortizontal rule
 ```html
 <hr>
 ```
 
-### Example of Welcome message
+#### Example of Welcome message
 
 [![Sample logo](http://i.imgur.com/m4NsCG0.jpg)](https://www.google.com)
 
-### Commanded by the best officer's
+##### Commanded by the best officer's
 
 *   [**Clan Leader:** Clan leader](https://www.google.com)
 *   [**Officer 2:** Co-leader](https://www.google.com)
@@ -50,21 +50,21 @@ _***If you have any concerns please contact these Officers**_
 
 * * *
 
-### Latest Clan News and Events
+##### Latest Clan News and Events
 
 *   [Example Link 1](https://www.google.com)
 *   [Example Link 2](https://www.google.com)
 
 * * *
 
-### Please read these Threads to:
+##### Please read these Threads to:
 
 *   [Get full access to the Clan Forums](https://www.google.com)
 *   [Suggestion on how to improve the Clan/Website please post them here](https://www.google.com)
 
 * * *
 
-### HTML example of a Welcome message
+#### HTML example of a Welcome message
 ```html
 welcometext="
 <a href="https://www.google.com"><img alt="BRTD old logo" src="http://i.imgur.com/m4NsCG0.jpg" width="250"></a>
@@ -120,15 +120,15 @@ welcometext="
 	"
 ```
 
-Example of important message i.e. a disclaimer
+##Example of important message i.e. a disclaimer
 
-## Legal Disclaimer
+#### Legal Disclaimer
 
 *   <span style="color:#ff0000">_**Please Be Aware It's an age 18+ Voice Server.**_</span>
 *   <span style="color:#ff0000">_**By using this Voice Server you agree that you are aged 18 or older.**_</span>
 *   <span style="color:#ff0000">_**The Server host takes no responsibility for context of conversations or messages sent or received on this server.**_</span>
 
-###### HTML Example of Legal Disclaimer
+#### HTML Example of Legal Disclaimer
 ```html
 
 <h3>Legal Disclaimer</h3>
