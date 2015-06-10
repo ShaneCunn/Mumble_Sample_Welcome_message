@@ -1,6 +1,6 @@
-# BRTD-Mumble
+# Mumble MOTD: Message of the day
 MOTD
-Mumble.ini Message of the day,  How to make a nice Message of the Day(MOTD) in Mumble.
+Mumble.ini Message of the day, Example on how to make a Message of the Day (MOTD) on a Mumble server.
 
 Instead of welcometext="Welcome to this server running Murmur."
 
